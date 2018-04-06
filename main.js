@@ -34,7 +34,10 @@ var context = {
     dlRootFolder: "."
   };
 
-  
+  /*git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Muthuprasanth/fileread.git
+git push -u origin master*/
   /*
    * All files will be downloaded from http://contoso.sharepoint.com/subsite/Shared%20Documents/Contracts folder
    * to __dirname + /Downloads/Contracts folder.
